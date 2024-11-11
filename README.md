@@ -3,7 +3,7 @@
 
 [Project Page](https://github.com/zyc-123/InstanceDiff) | [Paper](https://services.arxiv.org/html/submission/5991491/view) | [Model Card]() :hugs:
 
-<-- @import "figures/LDD_Overall2.png" -->
+![Overall Architecture](figures/LDD_Overall2.png)
 
 ### Updates
 
