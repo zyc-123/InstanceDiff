@@ -12,11 +12,11 @@
 
 ### How to run
 Dependancies:
-  CentOS 7.5
-  GPU: NVIDIA Tesla A100
-  Cuda 11.6
-  Python 3.9
-  Pytorch 1.13.1
+  CentOS 7.5</br>
+  GPU: NVIDIA Tesla A100</br>
+  Cuda 11.6</br>
+  Python 3.9</br>
+  Pytorch 1.13.1</br>
 #### Train
 
 #### Test
