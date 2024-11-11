@@ -5,7 +5,7 @@
 Official Pytorch Implementation of InstanceDiff
 ---
 
-[Project Page](https://github.com/zyc-123/InstanceDiff) | [Paper]() | [Model Card]() :hugs:
+[Project Page](https://github.com/zyc-123/InstanceDiff) | [Paper](https://services.arxiv.org/html/submission/5991491/view) | [Model Card]() :hugs:
 
 ![OverAll Architexture]()
 
