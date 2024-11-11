@@ -11,12 +11,13 @@
 ### TODO List
 
 ### How to run
-Dependancies:</br>
-  <p>CentOS 7.5</p>
-  <p>GPU: NVIDIA Tesla A100</p>
-  <p>Cuda 11.6</p>
-  <p>Python 3.9</p>
-  <p>Pytorch 1.13.1</p>
+Dependancies:
+ - CentOS 7.5
+ - GPU: NVIDIA Tesla A100
+ - Cuda 11.6
+ - Python 3.9
+ - Pytorch 1.13.1
+ - 
 #### Train
 
 #### Test
