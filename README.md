@@ -3,7 +3,7 @@
 
 [Project Page](https://github.com/zyc-123/InstanceDiff) | [Paper](https://services.arxiv.org/html/submission/5991491/view) | [Model Card]() :hugs:
 
-![OverAll Architexture](./figures/LDD_Overall2.pdf)
+<-- @import "figures/LDD_Overall2.png" -->
 
 ### Updates
 
