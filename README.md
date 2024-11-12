@@ -38,7 +38,7 @@ python -m torch.distributed.launch --master_port=12622 --nproc_per_node=2 trainU
 For non-distribution training:
 
 ```
-Python -opt=path/to/train_config.yml
+Python trainUM.py -opt=path/to/train_config.yml
 ```
 
 #### Test
