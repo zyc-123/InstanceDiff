@@ -38,11 +38,12 @@ python -m torch.distributed.launch --master_port=12622 --nproc_per_node=2 trainU
 For non-distribution training:
 
 ```
-<<<<<<< HEAD
 Python -opt=path/to/train_config.yml
-=======
+```
+
+```
 Python trainUM.py -opt=path/to/train_config.yml
->>>>>>> 67d716397cf4471272e81d1c405335b5eb54bedf
+
 ```
 
 #### Test
@@ -53,11 +54,10 @@ Python test_UnifiedMed.py -opt=path/to/test_config.yml
 
 #### Dataset
 
-<<<<<<< HEAD
 The dataset processed by us can be downloaded through [Dataset-Across-Five-Modality]()
-=======
+
 Access the **Dataset-Across-Five-Modality**: the dataset processed by us can be downloaded through [Baidu Cloud](https://pan.baidu.com/s/1WCdiTYf_yNrFaV6YbWFWGg?pwd=f9lc) or [Google Drive](https://drive.google.com/drive/folders/1TEQTXJs_9J8dLrNNKMtO7y0VmYEf0q93?usp=sharing) 
->>>>>>> 67d716397cf4471272e81d1c405335b5eb54bedf
+
 
 Or the source datasets can be downloaded via following links:
 
